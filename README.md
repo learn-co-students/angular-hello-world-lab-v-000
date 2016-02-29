@@ -9,6 +9,8 @@
 
 ## Instructions
 
+Update the Learn gem so that you're set up for all Angular tests. Run `gem update learn-test` in your command line. 
+
 Setup the directory structure as follows:
 
 - js/
