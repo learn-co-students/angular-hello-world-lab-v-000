@@ -13,11 +13,14 @@ Update the Learn gem so that you're set up for all Angular tests. Run `gem updat
 
 Setup the directory structure as follows:
 
-- js/
-  - app/
-    - controllers/
-  - angular.js
-- index.html
+```
+├── js/
+│   ├── app/
+│   │   ├── controllers/
+│   ├── angular.js
+├── index.html
+
+```
 
 You can find `index.html` and `angular.js` in this repo.
 
