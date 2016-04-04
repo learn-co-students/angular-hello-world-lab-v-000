@@ -17,6 +17,7 @@ Setup the directory structure as follows:
 ├── js/
 │   ├── app/
 │   │   ├── controllers/
+│   │   ├── app.js
 │   ├── angular.js
 ├── index.html
 
